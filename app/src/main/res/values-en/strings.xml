@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dodaj">Add</string>
+    <string name="ponisti">Cancel</string>
+    <string name="pretraga">Search</string>
+    <string name="povratak">Back</string>
+    <string name="autori">Authors</string>
+    <string name="kategorije">Categories</string>
+    <string name="odaberisliku">Choose picture</string>
+    <string name="dodajknjigu">Add book</string>
+    <string name="dodajkategoriju">Add category</string>
+    <string name="labelakategorija">Category:</string>
+    <string name="labelaautor">Author:</string>
+    <string name="labelaimeautora">Author\'s name:</string>
+    <string name="labelanazivknjige">Book title:</string>
+    <string name="uspjesnoDodana">Book was added successfully!</string>
+    <string name="nemaKategorija">Category list is empty!</string>
+    <string name="falePodaci">Some fields are empty!</string>
+    <string name="brojKnjiga">Number of books: </string>
+    <string name="dodajknjiguonl">Add book online</string>
+    <string name="knjige">Books</string>
+    <string name="nemarezultata">No books found</string>
+
+    <string name="preporuci">Recommend</string>
+    <string name="opis">Description</string>
+    <string name="datumObjavljivanja">Published date</string>
+    <string name="brojStranica">Number of pages</string>
+    <string name="informacijeOKnjizi">Book information</string>
+    <string name="posalji">Send</string>
+    <string name="kontakti">Contacts</string>
+    <string name="nemaAutora">No authors</string>
+    <string name="nepoznat">Unknown</string>
+    <string name="nemaKontakata">Contact has not been selected</string>
+</resources>

@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Spirala3</string>
+    <string name="dodaj">Dodaj</string>
+    <string name="ponisti">Poništi</string>
+    <string name="pretraga">Pretraga</string>
+    <string name="povratak">Povratak</string>
+    <string name="autori">Autori</string>
+    <string name="kategorije">Kategorije</string>
+    <string name="odaberisliku">Odaberi sliku</string>
+    <string name="dodajknjigu">Dodaj knjigu</string>
+    <string name="dodajkategoriju">Dodaj kategoriju</string>
+    <string name="labelakategorija">Kategorija:</string>
+    <string name="labelaautor">Autor:</string>
+    <string name="labelaimeautora">Ime autora:</string>
+    <string name="labelanazivknjige">Naziv knjige:</string>
+    <string name="uspjesnoDodana">Knjiga uspješno dodana!</string>
+    <string name="nemaKategorija">Lista kategorija je prazna!</string>
+    <string name="falePodaci">Niste unijeli sve podatke!</string>
+    <string name="brojKnjiga">Broj knjiga: </string>
+    <string name="dodajknjiguonl">Dodaj knjigu online</string>
+    <string name="knjige">Knjige</string>
+    <string name="nemarezultata">Nije pronađena nijedna knjiga</string>
+    <string name="nemaKnjiga">Lista knjiga je prazna</string>
+
+    <string name="preporuci">Preporuci</string>
+    <string name="opis">Opis</string>
+    <string name="datumObjavljivanja">Datum objavljivanja</string>
+    <string name="brojStranica">Broj stranica</string>
+    <string name="informacijeOKnjizi">Informacije o knjizi</string>
+    <string name="posalji">Posalji</string>
+    <string name="kontakti">Kontakti</string>
+    <string name="nemaAutora">Nema autora</string>
+    <string name="nepoznat">Nepoznat</string>
+    <string name="nemaKontakata">Nije izabran niti jedan kontakt</string>
+
+
+
+</resources>
